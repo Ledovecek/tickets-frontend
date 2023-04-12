@@ -1,0 +1,24 @@
+.message {
+    border: gray 1px solid;
+    margin-top: 15px;
+    padding: 10px;
+}
+
+.message-staff {
+    border: gray 1px solid;
+    margin-top: 15px;
+    padding: 10px;
+    background: red;
+}
+
+#message-title {
+    font-weight: bold;
+}
+
+.ticket-header {
+    display: flex;
+}
+
+#message-date {
+    text-align: center;
+}
