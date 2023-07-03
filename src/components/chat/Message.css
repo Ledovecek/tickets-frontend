@@ -1,13 +1,13 @@
 .message {
     border: gray 1px solid;
     margin-top: 15px;
-    padding: 10px;
+    padding: 8px;
 }
 
 .message-staff {
     border: gray 1px solid;
     margin-top: 15px;
-    padding: 10px;
+    padding: 8px;
     background: red;
 }
 
